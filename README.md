@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @y8done
-- 👀 I’m interested in exploring this digital world while learning new skills throuigh out the journey
+- 👀 I’m interested in exploring this digital world while learning new skills through out the journey
 - 🌱 I’m currently learning full stack development and aiml
 - 💞️ I’m looking to collaborate on any projects because i dont want to get stuck in any one category ,i want to explore more categories and fields 
 - 📫 Reach me at - https://www.linkedin.com/in/nagendrasingh-champawat-8138782aa/
