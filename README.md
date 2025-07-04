@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full stack development and aiml
 - 💞️ I’m looking to collaborate on any projects because i dont want to get stuck in any one category ,i want to explore more categories and fields 
 - 📫 Reach me at - https://www.linkedin.com/in/nagendrasingh-champawat-8138782aa/
-- ⚡ Fun fact: I give my 100% in any condition and for mr its fun
+- ⚡ Fun fact: I give my 100% in any condition and for me its fun
 
 <!---
 y8done/y8done is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
