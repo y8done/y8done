@@ -18,12 +18,10 @@ Welcome to my GitHub profile! 🚀
 ![y8done's GitHub stats](https://github-readme-stats.vercel.app/api?username=y8done&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nagendrasingh-champawat-8138782aa/)
 
 ## 🌟 Featured Projects
-- [First Contributions](https://github.com/firstcontributions/first-contributions)
-- [Awesome GitHub Profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+- [First Contributions](https://github.com/y8done/Notes)
 
 ## ✨ Fun Fact
 I love solving puzzles and exploring new technologies!
