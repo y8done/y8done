@@ -21,7 +21,7 @@ Welcome to my GitHub profile! 🚀
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nagendrasingh-champawat-8138782aa/)
 
 ## 🌟 Featured Projects
-- [First Contributions](https://github.com/y8done/Notes)
+- [Notes](https://github.com/y8done/Notes)
 
 ## ✨ Fun Fact
 I love solving puzzles and exploring new technologies!
